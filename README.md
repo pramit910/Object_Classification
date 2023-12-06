@@ -15,3 +15,4 @@ They started with a dataset of 80 million tiny images, which were downloaded fro
 The images in the CIFAR-10 dataset were then labeled by hand and the labeling was done by a team of students at the University of Toronto. 
 The images were then resized to 32x32 pixels and converted to RGB color space. The CIFAR-10 dataset is a valuable resource for machine learning researchers because it is a challenging dataset that is small and easy to work with. 
 
+#### Link to dataset: http://www.cs.toronto.edu/~kriz/cifar.html
